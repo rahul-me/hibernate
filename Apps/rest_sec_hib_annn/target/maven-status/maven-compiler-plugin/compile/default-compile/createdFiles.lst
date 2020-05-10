@@ -1,0 +1,16 @@
+com\concretepage\dao\IArticleDAO.class
+com\concretepage\dao\ArticleDAO.class
+com\concretepage\controller\ArticleController.class
+com\concretepage\config\SecurityConfig.class
+com\concretepage\config\SecurityInitializer.class
+com\concretepage\service\ArticleService.class
+com\concretepage\service\MyAppBasicAuthenticationEntryPoint.class
+com\concretepage\entity\UserInfo.class
+com\concretepage\service\IArticleService.class
+com\concretepage\config\WebAppInitializer.class
+com\concretepage\dao\IUserInfoDAO.class
+com\concretepage\config\DBConfig.class
+com\concretepage\service\MyAppUserDetailsService.class
+com\concretepage\config\AppConfig.class
+com\concretepage\entity\Article.class
+com\concretepage\dao\UserInfoDAO.class
